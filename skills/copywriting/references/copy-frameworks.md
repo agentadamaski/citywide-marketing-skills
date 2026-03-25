@@ -1,102 +1,165 @@
-# Copy Frameworks Reference
+# Copy Frameworks — Citywide Holdings
 
-Headline formulas, page section types, and structural templates.
+Headline formulas, page section types, and structural templates. All examples are specific to Zoopro, Housing Hub, NexusEdge, Bluesky 3, and AI Agent Empire. Generic SaaS examples have been removed.
+
+Always load `citywide-voice` and `copywriting` skills before using this reference.
+
+---
 
 ## Contents
-- Headline Formulas (outcome-focused, problem-focused, audience-focused, differentiation-focused, proof-focused, additional formulas)
-- Landing Page Section Types (core sections, supporting sections)
-- Page Structure Templates (feature-heavy page, varied engaging page, compact landing page, enterprise/B2B landing page, product launch page)
-- Section Writing Tips (problem section, benefits section, how it works section, testimonial selection)
+- Headline Formulas (by type)
+- Zoopro-Specific Headline Bank
+- Housing Hub-Specific Headline Bank
+- Landing Page Section Types
+- Page Structure Templates (by venture and use case)
+- Section Writing Tips (Citywide-calibrated)
+
+---
 
 ## Headline Formulas
 
 ### Outcome-Focused
 
-**{Achieve desirable outcome} without {pain point}**
-> Understand how users are really experiencing your site without drowning in numbers
+**[Achieve outcome] without [pain point]**
+> "Structured property returns without the landlord headaches"
+> "Lease-backed income without the compliance burden"
+> "Supported housing yields without the tenant management"
 
-**{Achieve desirable outcome} by {how product makes it possible}**
-> Generate more leads by seeing which companies visit your site
+**[Achieve outcome] by [how the model makes it possible]**
+> "Earn 8–12% net yields by partnering with vetted housing providers"
+> "Protect your investor income by moving to a commercial lease model"
 
-**Turn {input} into {outcome}**
-> Turn your hard-earned sales into repeat customers
+**Turn [input] into [outcome]**
+> "Turn idle capital into structured, hands-off property income"
+> "Turn your landlord portfolio into a lease-backed income model"
 
-**[Achieve outcome] in [timeframe]**
-> Get your tax refund in 10 days
+**[Achieve outcome] in [timeframe or simplicity]**
+> "A new income model in three steps"
+> "A lease structure that works from day one"
 
 ---
 
 ### Problem-Focused
 
-**Never {unpleasant event} again**
-> Never miss a sales opportunity again
+**Never [unpleasant event] again**
+> "Never chase rent arrears again"
+> "Never manage a void property again"
+> "Never worry about Renters Reform compliance again"
 
-**{Question highlighting the main pain point}**
-> Hate returning stuff to Amazon?
+**[Question highlighting the main pain point]**
+> "Still managing properties like it's 2015?"
+> "How many more regulation changes can your BTL portfolio absorb?"
+> "What happens to your investors when AST risk keeps rising?"
 
 **Stop [pain]. Start [pleasure].**
-> Stop chasing invoices. Start getting paid on time.
+> "Stop managing tenants. Start collecting lease income."
+> "Stop chasing arrears. Start receiving structured payments."
+> "Stop guessing at yields. Start working with proven structures."
 
 ---
 
 ### Audience-Focused
 
-**{Key feature/product type} for {target audience}**
-> Advanced analytics for Shopify e-commerce
+**[Model/product] for [target audience]**
+> "A lease-based income model for professional property investors"
+> "A property sourcing partner for supported housing providers"
+> "A compliance-led lettings model for established letting agents"
 
-**{Key feature/product type} for {target audience} to {what it's used for}**
-> An online whiteboard for teams to ideate and brainstorm together
+**[Model/product] for [audience] who [specific situation]**
+> "A structured income model for investors moving away from buy-to-let"
+> "A property partner for housing providers who need reliable supply"
 
-**You don't have to {skills or resources} to {achieve desirable outcome}**
-> With Ahrefs, you don't have to be an SEO pro to rank higher and get more traffic
+**You don't have to [barrier] to [achieve outcome]**
+> "You don't have to manage properties to earn strong yields from them"
+> "You don't have to understand supported housing to invest in it — that's what Zoopro is for"
 
 ---
 
 ### Differentiation-Focused
 
-**The {opposite of usual process} way to {achieve desirable outcome}**
-> The easiest way to turn your passion into income
+**The [opposite of usual process] way to [achieve outcome]**
+> "The hands-off way to invest in supported housing"
+> "The structured way to protect landlord income in 2026"
 
 **The [category] that [key differentiator]**
-> The CRM that updates itself
+> "The investment platform that vets providers before you invest"
+> "The property partner that understands supported housing from day one"
+
+**This isn't [familiar thing]. It's [better thing].**
+> "This isn't buy-to-let. It's a lease-based income model."
+> "This isn't property management. It's structured capital deployment."
 
 ---
 
 ### Proof-Focused
 
-**[Number] [people] use [product] to [outcome]**
-> 50,000 marketers use Drip to send better emails
+**[Specific number] [people/properties] [outcome]**
+> "500+ housing providers across the UK. One platform."
+> "5–10 year leases. 8–12% net yields. Zero tenant management."
 
-**{Key benefit of your product}**
-> Sound clear in online meetings
+**[Specific, credible claim]**
+> "Commercial leases. Regulated providers. Structured income."
+> "No voids. No arrears. No AST compliance risk."
 
 ---
 
-### Additional Formulas
+### Reframe-Focused (Zoopro's Strongest Category)
 
-**The simple way to {outcome}**
-> The simple way to track your time
+Use these when the audience needs to see the model differently before they'll engage:
 
-**Finally, {category} that {benefit}**
-> Finally, accounting software that doesn't suck
+> "Most investors are still thinking about this the wrong way."
+> "This isn't a property investment. It's a capital partnership."
+> "You're not a landlord. You're a capital allocator."
+> "Buy-to-let was never designed for 2026. This was."
+> "The investors who figured this out stopped managing properties two years ago."
 
-**{Outcome} without {common pain}**
-> Build your website without writing code
+---
 
-**Get {benefit} from your {thing}**
-> Get more revenue from your existing traffic
+## Zoopro — Headline Bank
 
-**{Action verb} your {thing} like {admirable example}**
-> Market your SaaS like a Fortune 500
+Ready-to-use headlines by funnel stage:
 
-**What if you could {desirable outcome}?**
-> What if you could close deals 30% faster?
+### Cold traffic (LinkedIn, podcast, webinar)
+- "Most investors don't know this model exists."
+- "Buy-to-let is becoming unviable. Here's what serious investors are doing instead."
+- "The Renters Reform Act just changed the calculus for every landlord in the UK."
+- "8–12% net yields. No tenants. No management. Here's how."
 
-**Everything you need to {outcome}**
-> Everything you need to launch your course
+### Warm traffic (existing contacts, email list, WhatsApp)
+- "Structured property returns without the landlord headaches."
+- "8–12% net yields. 5–10 year leases. One platform."
+- "This is the investment model most letting agents haven't heard of yet."
+- "Zoopro connects serious investors with vetted supported housing opportunities."
 
-**The {adjective} {category} built for {audience}**
-> The lightweight CRM built for startups
+### Hot traffic (waiting list, book funnel graduates, direct referrals)
+- "Join the Zoopro investor waiting list."
+- "You've seen the model. Here's your next step."
+- "Ready to explore a supported housing investment? Here's how to start."
+
+---
+
+## Housing Hub — Headline Bank
+
+### For housing providers, RPs, housing associations
+- "The property partner your housing team can rely on."
+- "Suitable supported housing properties. Sourced, vetted, and ready for handover."
+- "We understand supported housing. That's all we do."
+- "Finding suitable properties for your tenants — without the procurement headache."
+- "A reliable supply of supported housing properties across the UK."
+
+### For local authorities
+- "Working with local housing teams to solve supported housing supply."
+- "Properties that meet your standards. Partners who understand your obligations."
+
+---
+
+## NexusEdge — Headline Bank
+
+### For business owners and operators
+- "AI systems that work while you don't."
+- "The infrastructure behind consistent business growth."
+- "Stop doing manually what a system can do for you."
+- "AI automation built for operators who want results, not tech demos."
 
 ---
 
@@ -106,239 +169,211 @@ Headline formulas, page section types, and structural templates.
 
 **Hero (Above the Fold)**
 - Headline + subheadline
-- Primary CTA
-- Supporting visual (product screenshot, hero image)
-- Optional: Social proof bar
+- Primary CTA (one action only)
+- Trust signal or proof point beneath CTA
+- Optional: relevant visual or social proof bar
 
 **Social Proof Bar**
-- Customer logos (recognizable > many)
-- Key metric ("10,000+ teams")
-- Star rating with review count
-- Short testimonial snippet
+For Zoopro: lease terms, yield ranges, provider count, platform credibility
+For Housing Hub: provider types served, geography covered, placement speed
+> "5–10 year leases · 8–12% net yields · Vetted provider network · UK-wide"
 
-**Problem/Pain Section**
-- Articulate their problem better than they can
-- Create recognition ("that's exactly my situation")
-- Hint at cost of not solving it
+**Reality / Problem Section**
+- Name the real friction the audience is experiencing
+- Use specific, recognisable language — not generic "pain points"
+- For Zoopro: BTL regulation burden, rising compliance costs, yield erosion
+- For Housing Hub: unreliable property supply, landlords who don't understand the sector
 
-**Solution/Benefits Section**
-- Bridge from problem to your solution
-- 3-5 key benefits (not 10)
-- Each: headline + explanation + proof if available
+**Reframe Section**
+- Shift how they see the solution
+- This is Zoopro and Housing Hub's strongest positioning lever
+- For Zoopro: "You're not a landlord. You're a capital partner."
+- For Housing Hub: "A property partner who speaks your language from day one."
 
 **How It Works**
-- 3-4 numbered steps
-- Reduces perceived complexity
-- Each step: action + outcome
+- 3–4 steps maximum
+- Each step: one clear action + what they get from it
+- No jargon. No assumed knowledge.
 
-**Final CTA Section**
-- Recap value proposition
-- Repeat primary CTA
-- Risk reversal (guarantee, free trial)
+**Proof Points**
+- Specific numbers, lease terms, portfolio data
+- Testimonials with full name, role, location, and specific outcome
+- Never vague praise — always specific results
+
+**Objection Handling / FAQ**
+- Answer the real questions your audience is sitting with
+- See objection banks in the main copywriting skill
+
+**Final CTA**
+- Restate the core benefit in one line
+- One action — not two or three
+- Risk reversal where appropriate ("No commitment. Just your place in the queue.")
 
 ---
 
 ### Supporting Sections
 
 **Testimonials**
-- Full quotes with names, roles, companies
-- Photos when possible
-- Specific results over vague praise
-- Formats: quote cards, video, tweet embeds
+- Full name, role, company, location
+- Specific result: "12 properties, structured income, 6 months"
+- Not: "Great platform!" or "Really helpful team!"
 
-**Case Studies**
-- Problem → Solution → Results
-- Specific metrics and outcomes
-- Customer name and context
-- Can be snippets with "Read more" links
+**Misconceptions Section**
+- Highly effective for Zoopro and Housing Hub — both suffer from misunderstanding
+- Format: Myth (struck through) → Reality (orange arrow prefix)
+- See waitlist page for worked example
 
-**Use Cases**
-- Different ways product is used
-- Helps visitors self-identify
-- "For marketers who need X" format
-
-**Personas / "Built For" Sections**
-- Explicitly call out target audience
-- "Perfect for [role]" blocks
-- Addresses "Is this for me?" question
-
-**FAQ Section**
-- Address common objections
-- Good for SEO
-- Reduces support burden
-- 5-10 most common questions
+**Use Cases / Who This Is For**
+- For Zoopro: professional investors, business owners with capital, landlords exiting BTL
+- For Housing Hub: RPs, housing associations, charities, local authorities, care providers
 
 **Comparison Section**
-- vs. competitors (name them or don't)
-- vs. status quo (spreadsheets, manual processes)
-- Tables or side-by-side format
+- BTL vs supported housing lease model (Zoopro)
+- Ad-hoc landlord vs professional property partner (Housing Hub)
+- Use side-by-side tables — clear and scannable
 
-**Integrations / Partners**
-- Logos of tools you connect with
-- "Works with your stack" messaging
-- Builds credibility
+**Founder / Origin Story**
+- Why this exists — Citywide's values-led origin
+- Connects emotionally without being sentimental
+- Differentiates from faceless platforms
 
-**Founder Story / Manifesto**
-- Why you built this
-- What you believe
-- Emotional connection
-- Differentiates from faceless competitors
-
-**Demo / Product Tour**
-- Interactive demos
-- Video walkthroughs
-- GIF previews
-- Shows product in action
-
-**Pricing Preview**
-- Teaser even on non-pricing pages
-- Starting price or "from $X/mo"
-- Moves decision-makers forward
-
-**Guarantee / Risk Reversal**
-- Money-back guarantee
-- Free trial terms
-- "Cancel anytime"
-- Reduces friction
-
-**Stats Section**
-- Key metrics that build credibility
-- "10,000+ customers"
-- "4.9/5 rating"
-- "$2M saved for customers"
+**Risk Reversal**
+- No hard sell, no commitment language
+- "No obligation. Just information."
+- "Join the waiting list. No commitment until you're ready."
 
 ---
 
 ## Page Structure Templates
 
-### Feature-Heavy Page (Weak)
+### Zoopro — Investor Waiting List Page
 
 ```
-1. Hero
-2. Feature 1
-3. Feature 2
-4. Feature 3
-5. Feature 4
-6. CTA
+1. Hero: headline, subheadline, form (name + email), trust signals
+2. Trust bar: lease terms, yield range, provider network, free to join
+3. Three pillars: protect income / reduce compliance / expand nationally
+4. Testimonial (specific, outcome-led)
+5. Misconceptions (3 common myths, busted)
+6. Book CTA strip (link to free guide)
+7. Footer
 ```
 
-This is a list, not a persuasive narrative.
-
----
-
-### Varied, Engaging Page (Strong)
+### Zoopro — Investor Homepage (when platform launches)
 
 ```
-1. Hero with clear value prop
-2. Social proof bar (logos or stats)
-3. Problem/pain section
-4. How it works (3 steps)
-5. Key benefits (2-3, not 10)
-6. Testimonial
-7. Use cases or personas
-8. Comparison to alternatives
-9. Case study snippet
-10. FAQ
-11. Final CTA with guarantee
-```
-
-This tells a story and addresses objections.
-
----
-
-### Compact Landing Page
-
-```
-1. Hero (headline, subhead, CTA, image)
-2. Social proof bar
-3. 3 key benefits with icons
-4. Testimonial
+1. Hero: strong reframe headline, subheadline, primary CTA
+2. Social proof bar: key metrics
+3. Reality section: BTL is changing — here's the evidence
+4. Reframe: this is a different model entirely
 5. How it works (3 steps)
-6. Final CTA with guarantee
+6. Proof points: yields, lease terms, provider vetting process
+7. Testimonials (2–3, specific outcomes)
+8. Objection handling / FAQ
+9. Final CTA with risk reversal
 ```
 
-Good for ad landing pages where brevity matters.
+### Housing Hub — Homepage
+
+```
+1. Hero: provider-audience headline, subheadline, primary CTA (submit requirement)
+2. Who we work with: RPs, housing associations, charities, local authorities
+3. How it works (3 steps: submit requirement / we source and vet / placement confirmed)
+4. Why Housing Hub: specialism, compliance awareness, UK-wide reach
+5. Testimonial or case study
+6. FAQ (procurement, timescales, standards)
+7. Final CTA
+```
+
+### Letting Agent — Book Funnel Page (existing, reference)
+
+```
+1. Hero: compliance-led headline, CTA (get instant access)
+2. What the guide does (not theory — practical)
+3. Misconceptions (3, busted)
+4. What you'll learn (outcome-focused, no emojis)
+5. Testimonials (specific: names, locations, portfolio sizes)
+6. Who it's for (specific agent profiles)
+7. Final CTA
+```
+
+### NexusEdge — CaaS Offer Page
+
+```
+1. Hero: outcome headline for business owners
+2. The problem: manual work, inconsistent output, no systems
+3. The solution: AI automation as a service
+4. What's included (specific deliverables, not vague "AI solutions")
+5. Use cases (investor lead gen, content automation, CRM integration)
+6. Pricing tier or "book a strategy call" CTA
+7. FAQ
+```
 
 ---
 
-### Enterprise/B2B Landing Page
+## Section Writing Tips — Citywide Calibrated
 
-```
-1. Hero (outcome-focused headline)
-2. Logo bar (recognizable companies)
-3. Problem section (business pain)
-4. Solution overview
-5. Use cases by role/department
-6. Security/compliance section
-7. Integration logos
-8. Case study with metrics
-9. ROI/value section
-10. Contact/demo CTA
-```
+### Reality / Problem Section
 
-Addresses enterprise buyer concerns.
+Open with language the audience already uses internally — not marketing language:
 
----
+- "Every letting agent knows the feeling..." (recognition)
+- "If you're managing investor landlords in 2026..." (specificity)
+- "The regulation burden on AST landlords has changed the maths." (direct)
+- "Finding a property that meets your compliance standards shouldn't take months." (Housing Hub)
 
-### Product Launch Page
-
-```
-1. Hero with launch announcement
-2. Video demo or walkthrough
-3. Feature highlights (3-5)
-4. Before/after comparison
-5. Early testimonials
-6. Launch pricing or early access offer
-7. CTA with urgency
-```
-
-Good for ProductHunt, launches, or announcements.
-
----
-
-## Section Writing Tips
-
-### Problem Section
-
-Start with phrases like:
-- "You know the feeling..."
-- "If you're like most [role]..."
-- "Every day, [audience] struggles with..."
-- "We've all been there..."
-
-Then describe:
-- The specific frustration
-- The time/money wasted
-- The impact on their work/life
+Then name the specific friction:
+- Exact compliance challenge (Renters Reform Act, Awaab's Law, etc.)
+- Exact financial impact (yield erosion, void costs, management time)
+- Exact operational problem (unreliable supply, procurement delays)
 
 ### Benefits Section
 
-For each benefit, include:
-- **Headline**: The outcome they get
-- **Body**: How it works (1-2 sentences)
-- **Proof**: Number, testimonial, or example (optional)
+Each benefit must follow: **Headline → How it works (1–2 sentences) → Proof or number**
+
+❌ "Structured returns" — too vague
+✅ "Structured returns — a commercial lease means rent is paid regardless of occupancy. No voids. No arrears."
 
 ### How It Works Section
 
-Each step should be:
-- **Numbered**: Creates sense of progress
-- **Simple verb**: "Connect," "Set up," "Get"
-- **Outcome-oriented**: What they get from this step
+Each step: **Action verb → what happens → what the investor/provider gets**
 
-Example:
-1. Connect your tools (takes 2 minutes)
-2. Set your preferences
-3. Get automated reports every Monday
+Zoopro example:
+1. Register your criteria — tell us your investment range, location preference, and target yield
+2. We match you — Zoopro identifies vetted supported housing opportunities that fit
+3. Complete due diligence — review the deal structure, provider credentials, and lease terms before committing
+
+Housing Hub example:
+1. Submit a housing requirement — tell us the property type, location, and resident needs
+2. We source and vet — Housing Hub identifies suitable properties from our investor network
+3. Placement confirmed — property secured, lease signed, residents placed
 
 ### Testimonial Selection
 
-Best testimonials include:
-- Specific results ("increased conversions by 32%")
-- Before/after context ("We used to spend hours...")
-- Role + company for credibility
-- Something quotable and specific
+Must include:
+- Full name, role, company, location
+- Specific outcome with numbers where possible
+- Before/after context
+- Something only a real person would say
 
-Avoid testimonials that just say:
-- "Great product!"
-- "Love it!"
-- "Easy to use!"
+Avoid:
+- "Great service!" — useless
+- "Would recommend" — useless
+- "Very professional" — useless
+
+Strong example:
+> "I was managing 40 BTL properties and spending every weekend dealing with tenant issues. Within 6 months of switching to lease-backed, I had structured income on 12 of them and hadn't spoken to a tenant once." — Sarah Mitchel, Homepoint Lettings, Manchester
+
+### CTA Copy — Citywide Rules
+
+One CTA per page. Action verb + what they get + optional qualifier.
+
+| Context | CTA |
+|---|---|
+| Investor waiting list | "Join the Investor Waiting List" |
+| Agent waiting list | "Get Instant Access" |
+| Housing requirement | "Submit a Housing Requirement" |
+| Discovery call | "Book a 20-Minute Discovery Call" |
+| Book download | "Download the Free Guide" |
+| NexusEdge enquiry | "Book a Strategy Call" |
+
+Never use: Submit, Sign Up, Learn More, Click Here, Get Started (without specificity)
